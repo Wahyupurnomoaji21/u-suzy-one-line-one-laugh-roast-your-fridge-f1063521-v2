@@ -1,0 +1,1 @@
+{"description":"One-line roast of my fridge for make.fun — One Line, One Laugh: Roast Your Fridge","license":"MIT","main":"main.ts","name":"roast-your-fridge-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"2.0.0"}
